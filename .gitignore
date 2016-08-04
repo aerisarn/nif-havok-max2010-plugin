@@ -1,0 +1,16 @@
+/Build/*.user
+/Temp
+/Staging
+/ipch
+/Debug
+/.vs
+/*.opensdf
+/*.sdf
+/output
+/x64
+/setbuildenv.bat
+/*.log
+*.aps
+*.7z
+/NifCommon/config.h
+/User_Settings.props
